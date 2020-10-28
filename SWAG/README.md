@@ -1,4 +1,4 @@
-# Reproduction of "A Simple Baseline for Bayesian Uncertainty in Deep Learning"
+# Re-implementation of "A Simple Baseline for Bayesian Uncertainty in Deep Learning"
 
 ["A Simple Baseline for Bayesian Uncertainty in Deep Learning"](https://arxiv.org/pdf/1902.02476.pdf) by W. Maddox et al. is reproduced using Tensorflow, the 
 dependencies used are shown in requirements.txt.
